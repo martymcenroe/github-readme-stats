@@ -14,3 +14,6 @@ vercel_token
 *.code-workspace
 
 .vercel
+
+# Unleashed session transcripts (auto-generated, untracked)
+data/unleashed/
